@@ -1,2 +1,3 @@
 zdravo semos!
 ova e mojata prva vezba za git
+komit od remote
